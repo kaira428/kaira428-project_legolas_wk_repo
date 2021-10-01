@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LegolasApplication<legolas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.upskill.legolas.LegolasApplication",
+            "projectName": "legolas",
+            "args": ""
+        }
+    ]
+}
